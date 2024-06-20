@@ -34,10 +34,12 @@
 
 #### 4. [model-server](https://github.com/DoongDoongMaster/model-server)
 > 모델을 서빙하는 서버입니다.
+
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 #### 5. [server](https://github.com/DoongDoongMaster/server)
 > 클라이언트(앱)와 모델 서버를 중개하는 API 서버입니다.
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 <br/>
