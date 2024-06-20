@@ -18,12 +18,18 @@
 ## 🎵 Repository
 
 1. [application](https://github.com/DoongDoongMaster/application)
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 > 둥둥마스터의 iOS 앱입니다.
  
 2. [optical-music-recognition](https://github.com/DoongDoongMaster/optical-music-recognition)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 > 악보 인식 모델입니다.
 
 3. [automatic-drum-transcription](https://github.com/DoongDoongMaster/automatic-drum-transcription)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 > 드럼 전사 모델입니다.
 
 4. [model-server](https://github.com/DoongDoongMaster/model-server)
@@ -32,6 +38,7 @@
 5. [server](https://github.com/DoongDoongMaster/server)
 > 클라이언트(앱)와 모델 서버를 중개하는 API 서버입니다.
 
+<br/>
 
 ## 🎼 Team
 
