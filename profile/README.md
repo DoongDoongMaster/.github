@@ -17,30 +17,18 @@
 
 ## 🎵 Repository
 
-#### 1. [application](https://github.com/DoongDoongMaster/application)
-> 둥둥마스터의 iOS 앱입니다.
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
- 
-#### 2. [optical-music-recognition](https://github.com/DoongDoongMaster/optical-music-recognition)
-> 악보 인식 모델입니다.
+| repository | explain |  |
+| --- | --- | --- |
+| [application](https://github.com/DoongDoongMaster/application) | 둥둥마스터의 iOS 앱입니다. | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) |
+| [optical-music-recognition](https://github.com/DoongDoongMaster/optical-music-recognition) | 악보 인식 모델입니다. | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) |
+| [automatic-drum-transcription](https://github.com/DoongDoongMaster/automatic-drum-transcription) | 드럼 전사 모델입니다. | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) |
+| [model-server](https://github.com/DoongDoongMaster/model-server) | 모델을 서빙하는 서버입니다. | ![Redis](https://img.shields.io/badge/redisAI-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) |
+| [server](https://github.com/DoongDoongMaster/server) | 클라이언트(앱)와 모델 서버를 중개하는 API 서버입니다. | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) |
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-#### 3. [automatic-drum-transcription](https://github.com/DoongDoongMaster/automatic-drum-transcription)
-> 드럼 전사 모델입니다.
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-#### 4. [model-server](https://github.com/DoongDoongMaster/model-server)
-> 모델을 서빙하는 서버입니다.
-
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-#### 5. [server](https://github.com/DoongDoongMaster/server)
-> 클라이언트(앱)와 모델 서버를 중개하는 API 서버입니다.
-
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 <br/>
 
