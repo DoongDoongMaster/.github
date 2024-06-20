@@ -15,7 +15,25 @@
 
 <br/>
 
-## 👩‍🦰 Team
+## 🎵 Repository
+
+1. [application](https://github.com/DoongDoongMaster/application)
+> 둥둥마스터의 iOS 앱입니다.
+ 
+2. [optical-music-recognition](https://github.com/DoongDoongMaster/optical-music-recognition)
+> 악보 인식 모델입니다.
+
+3. [automatic-drum-transcription](https://github.com/DoongDoongMaster/automatic-drum-transcription)
+> 드럼 전사 모델입니다.
+
+4. [model-server](https://github.com/DoongDoongMaster/model-server)
+> 모델을 서빙하는 서버입니다.
+
+5. [server](https://github.com/DoongDoongMaster/server)
+> 클라이언트(앱)와 모델 서버를 중개하는 API 서버입니다.
+
+
+## 🎼 Team
 
 | Name | 🐤 배수아  | 🥑 김재서 | 🍠 박지영 |
 | --- | --- | --- | --- |
