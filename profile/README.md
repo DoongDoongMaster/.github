@@ -1,15 +1,24 @@
-# DoongDoongMaster
-### 드럼 초보자의 연습을 도와주는 어쿠스틱 드럼 채점기
+# 🥁 Doong Doong Master 🥁
+![logo_eff - 복사본 (2)](https://github.com/DoongDoongMaster/.github/assets/68185825/b4722081-4738-4732-a619-8ffda201da81)
 
-### 🥁 **Goal** 
-> 드럼을 연주하는 사람들에게 악보를 기반으로 박자와 소리에 대한 피드백을 제공하여 혼자서도 개선점을 빠르게 파악할 수 있도록 하고, 연주가 끝난 후 최종 정확도 평가를 제공해서 실력을 향상할 수 있도록 도움을 주는 앱 서비스이다.
+<img alt="Static Badge" src="https://img.shields.io/badge/drum-orange"> <img alt="Static Badge" src="https://img.shields.io/badge/adt-yellow"> <img alt="Static Badge" src="https://img.shields.io/badge/omr-green">
+### 드럼 초보자의 연습을 도와주는 어쿠스틱 드럼 채점기
+> 박자감 및 자기확신이 부족한 드럼 초보자를 위해,<br/>
+> **악보 프롬프트**와 **어쿠스틱 드럼 채점** 기능을 갖춘 어플리케이션을 통해서<br/>
+> 드럼 초보자의 연습을 돕고자 합니다.
+> 
+> 이화여자대학교 컴퓨터공학전공 졸업프로젝트 : 2023-9~2024-6
 
 <br/>
 
-### 👩‍🦰 Team
+![Final-02 02poster](https://github.com/DoongDoongMaster/.github/assets/68185825/1c5e01a1-98af-454f-8425-de3494129f11)
 
-| ✨ Name | 🎨 Role | 💌 E-mail | 😺 Github |
-|:-:|:-:|:-:|:-:|
-| 김재서 | Automatic Drum Transcription, UI/UX | [jaeserrr@ewhain.net](mailto:jaeserrr@ewhain.net) | [jaeseo222](https://github.com/jaeseo222) |
-| 박지영 | Flutter, Server | [jiyoung_06@ewhain.net](mailto:jiyoung_06@ewhain.net) | [ZERO-black](https://github.com/ZERO-black) |
-| 배수아 | Optimal Music Recognition | [bsa0322@ewhain.net](mailto:bsa0322@ewhain.net) | [bsa0322](https://github.com/bsa0322) |
+<br/>
+
+## 👩‍🦰 Team
+
+| Name | 🐤 배수아  | 🥑 김재서 | 🍠 박지영 |
+| --- | --- | --- | --- |
+| Role | 리더, ADT 모델 개발 Lead (Segment and Classify), 서버 개발 | ADT 모델 개발 (Separate and Detect), OMR 모델 개발 Lead, UX/UI | 앱 개발 |
+| E-mail | [bsa0322@ewha.ac.kr](mailto:bsa0322@ewha.ac.kr) | [jaeserrr@ewha.ac.kr](mailto:jaeserrr@ewha.ac.kr) | [jiyoung_06@ewha.ac.kr](mailto:jiyoung_06@ewha.ac.kr) |
+| Github | [bsa0322](https://github.com/bsa0322) | [jaeseo222](https://github.com/jaeseo222) | [ZERO-black](https://github.com/ZERO-black) |
