@@ -19,6 +19,6 @@
 
 | Name | 🐤 배수아  | 🥑 김재서 | 🍠 박지영 |
 | --- | --- | --- | --- |
-| Role | 리더, ADT 모델 개발 Lead (Segment and Classify), 서버 개발 | ADT 모델 개발 (Separate and Detect), OMR 모델 개발 Lead, UX/UI | 앱 개발 |
+| Role | 리더, ADT 모델 개발 Lead (Segment and Classify), 서버 개발 | OMR 모델 개발 Lead, ADT 모델 개발 (Separate and Detect), UX/UI | 앱 개발 |
 | E-mail | [bsa0322@ewha.ac.kr](mailto:bsa0322@ewha.ac.kr) | [jaeserrr@ewha.ac.kr](mailto:jaeserrr@ewha.ac.kr) | [jiyoung_06@ewha.ac.kr](mailto:jiyoung_06@ewha.ac.kr) |
 | Github | [bsa0322](https://github.com/bsa0322) | [jaeseo222](https://github.com/jaeseo222) | [ZERO-black](https://github.com/ZERO-black) |
